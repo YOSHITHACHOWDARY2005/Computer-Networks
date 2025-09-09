@@ -29,9 +29,9 @@ def send_email(sender, password, recipient, subject, message):
 
 if __name__ == "__main__":
     # configure your details here
-    my_email = "yoshithabellam5@gmail.com"
-    app_pass = "cfzi luis xbut accw"
-    to_email = "thashiyo5@gmail.com"
+    my_email = "your_email@gmail.com"
+    app_pass = "your_16_char_app_password"
+    to_email = "receiver_email@gmail.com"
 
     subject_line = "Python SMTP Demo"
     body_text = "Hi! This is a test email sent via Python with Gmail SMTP."
