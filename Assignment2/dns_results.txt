@@ -1,7 +1,0 @@
-A record: 23.192.228.84
-A record: 23.215.0.138
-A record: 23.192.228.80
-A record: 23.220.75.232
-A record: 23.220.75.245
-A record: 23.215.0.136
-MX record: 0 .
